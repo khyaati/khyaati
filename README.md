@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🔭 I’m currently a rising Highschool freshman based in the Indian Subcontinent!
 - ⚡ Fun fact: I'm a part-time student and a full-time programmer!
 
 <!--
