@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently a rising Highschool freshman based in the Indian Subcontinent!
-- ⚡ Fun fact: I'm a part-time student yet a full-time programmer!
+- ⚡ Fun fact: I'm a part-time student but a full-time programmer!
+- 📫 How to reach me: www.linkedin.com/in/khyaati-srivastava-82a3761b3
 
 <!--
 **khyaati/khyaati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
