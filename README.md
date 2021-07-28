@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently a rising Highschool freshman based in the Indian Subcontinent!
-- ⚡ Fun fact: I'm a part-time student but a full-time programmer!
+- 🔭 I’m currently a rising Highschool Sophomore based in India...
 - 📫 How to reach me: www.linkedin.com/in/khyaati-srivastava-82a3761b3
 
 <!--
