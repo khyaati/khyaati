@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently a Highschooler based in India...
 - 📫 How to reach me: www.linkedin.com/in/khyaati-srivastava-82a3761b3
 
 <!--
